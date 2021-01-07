@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>default</key>
+	<dict>
+		<key>LICENSE_KEY</key>
+		<string>app_license_key_1</string>
+		<key>URL_KEY</key>
+		<string>https://urlSeheme1.com</string>
+	</dict>
+	<key>com.menut.demoMutipleTarget</key>
+	<dict/>
+	<key>com.menut.demoMutipleTarget2</key>
+	<dict>
+		<key>LICENSE_KEY</key>
+		<string>app_license_key_2</string>
+		<key>URL_KEY</key>
+		<string>https://urlSeheme2.com</string>
+	</dict>
+</dict>
+</plist>
